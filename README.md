@@ -7,4 +7,4 @@ http://www.signalogic.com/surveillance_video_suspect_detection.html
 
 http://www.signalogic.com/ffmpeg.html
 
-Also a verson for VDI applications that includes "upstream communication" is available.  Please contact Signalogic.
+Also a version for VDI applications that includes "upstream communication" is available.  Please contact Signalogic.
